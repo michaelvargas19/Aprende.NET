@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJPgQ9l/G/BtwX6Qv5pvkDl9Y131yS18rGIsKFnum7/+BHwh6yZfxJeP3OCGStwhN0U8AdWa+WUX0M+olgY3Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Proyecto Movilidad\\Documents\\GitHub\\Aprende.NET\\Introduccion.NET.Ejercicio.Introduccion\\Introduccion.NET.Ejercicio.Introduccion.MVC\\Introduccion.NET.Ejercicio.Introduccion.MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
