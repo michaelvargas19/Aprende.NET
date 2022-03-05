@@ -18,20 +18,20 @@ Para la implementación de la solución se han definido las siguientes Épicas a
 -	SegundoOperador
 -	Operación
 -	Resultado
-4.	Generar un controlador *MVC* en la carpeta *Controllers* con operaciones de lectura y escritura llamado *CalculadoraController*
-5.	Genere una vista tipo Razor para las acciones Create y View en la carpeta *Views*, manteniendo la estructura MVC. Se sugiere usar el wizard para generar la vista con las y modelos definidos en pasos anteriores
+3.	Generar un controlador *MVC* en la carpeta *Controllers* con operaciones de lectura y escritura llamado *CalculadoraController*
+4.	Genere una vista tipo Razor para las acciones Create y View en la carpeta *Views*, manteniendo la estructura MVC. (Se sugiere usar el wizard para generar la vista con los modelos definidos en pasos anteriores)
 
 *Nota: Luego de realizar este paso podrá ejecutar la aplicación y consultar el formulario con la uri /Calculadora/Create*
 
 5.	En el método POST llamado Create del controlador *CalculadoraController* agregue la lógica de negocio que corresponda para la calculadora.
-a.	Redireccione esta respuesta a la vista *Calculadora/View* enviando los datos de la calculadora para mostrarlos en pantalla
+-	Redireccione esta respuesta a la vista *Calculadora/View* enviando los datos de la calculadora para mostrarlos en pantalla
+
 6.	Agregar un botón o enlace en la vista *Home* y *Calculadora/View* para acceder a la calculadora y realizar más operaciones
 
 **Para continuar con el desarrollo a partir de este punto es necesario tener claro el concepto de inyección de dependencias.**
 
 ## Épica 2 – Historial de operaciones
-7.	Agregue un nuevo componente o capa al proyecto llamado *Introduccion.NET.Ejercicio.Introduccion.Repository* para persistir el historial de operaciones en una base de datos. 
-a.	Puede usar base de datos que prefiera siempre y cuando se almacene la siguiente información:
+7.	Agregue un nuevo componente o capa al proyecto llamado *Introduccion.NET.Ejercicio.Introduccion.Repository* para persistir el historial de operaciones en una base de datos. 7.1.	Puede usar base de datos que prefiera siempre y cuando se almacene la siguiente información:
 -	Identificador único
 -	PrimerOperador
 -	SegundoOperador
@@ -39,6 +39,7 @@ a.	Puede usar base de datos que prefiera siempre y cuando se almacene la siguien
 -	Resultado
 -	FechaCalculo
 -	Usuario
+
 8.	Agregue una vista para consultar el historial de operaciones almacenado en la base de datos ordenado por la fecha del cálculo en forma descendente 
 
 *Nota: El usuario se debe capturar en el momento de que diligencia la operación.*
