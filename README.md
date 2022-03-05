@@ -1,7 +1,7 @@
 
 # Ejercicio de Introducción – Calculadora interoperable
 
-La empresa de contabilidad Sumando Y Restando ha solicitado al equipo de desarrollo Aprende.Net, implementar una herramienta digital para el cálculo de operaciones, básicas bajo la plataforma .Net.
+La empresa de contabilidad **Sumando Y Restando** ha solicitado al equipo de desarrollo Aprende.Net, implementar una herramienta digital para el cálculo de operaciones, básicas bajo la plataforma .Net.
 
 Las historias de usuario son:
 -	Como usuario del sistema quiero tener un portal web para el cálculo de operaciones básicas
@@ -9,7 +9,7 @@ Las historias de usuario son:
 -	Como arquitecto de soluciones requiero tener interoperabilidad en el sistema para poder integrar más componentes que requieran estas operaciones
 -	Como desarrollador quiero que se centralice la lógica del negocio para evitar la duplicación de código y tener mantenibilidad en el sistema
 
-Para la implementación de la solución se han definido las siguientes Épicas aprobadas por la empresa Sumando Y Restando:
+Para la implementación de la solución se han definido las siguientes Épicas aprobadas por la empresa **Sumando Y Restando**:
 
 ## Épica 1 – Calculo de operación
 1.	Clonar la rama ejercicio/introducción
