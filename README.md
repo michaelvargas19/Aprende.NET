@@ -56,3 +56,15 @@ Complete la lógica de negocio en cada una de la definición de los servicios, h
 
 
 
+### Comandos para clonar rama
+git clone https://github.com/michaelvargas19/Aprende.NET.git -b ejerciocio/introduccion/[usuario]
+
+
+### Comandos para enviar cambios a una rama
+git add .
+git commit -m "[Mensaje]"
+git push
+
+
+### Comandos para obtener cambios de rama remota
+git pull
