@@ -29,7 +29,7 @@ a.	Redireccione esta respuesta a la vista *Calculadora/View* enviando los datos 
 
 **Para continuar con el desarrollo a partir de este punto es necesario tener claro el concepto de inyección de dependencias.**
 
-## Epica 2 – Historial de operaciones
+## Épica 2 – Historial de operaciones
 7.	Agregue un nuevo componente o capa al proyecto llamado *Introduccion.NET.Ejercicio.Introduccion.Repository* para persistir el historial de operaciones en una base de datos. 
 a.	Puede usar base de datos que prefiera siempre y cuando se almacene la siguiente información:
 -	Identificador único
@@ -43,7 +43,7 @@ a.	Puede usar base de datos que prefiera siempre y cuando se almacene la siguien
 
 *Nota: El usuario se debe capturar en el momento de que diligencia la operación.*
 
-## Epica 3
+## Épica 3
 9.	Para satisfacer el requisito de Interoperatividad se ha decidido exponer servicios web que realicen las mismas operaciones que la calculadora hecha en el proyecto *MVC*. Para esto se ha creado el proyecto *Introduccion.NET.Ejercicio.Introduccion.API* en la solución quien expondrá los siguientes servicios web:
 
 - GET: Consultar historial de operaciones
@@ -51,7 +51,7 @@ a.	Puede usar base de datos que prefiera siempre y cuando se almacene la siguien
 
 Complete la lógica de negocio en cada una de la definición de los servicios, haciendo uso del componente de persistencia.
 
-## Epica 4
+## Épica 4
 10.	Se ha detectado que la lógica del negocio (cálculo de operaciones) se está repitiendo en dos componentes *Introduccion.NET.Ejercicio.Introduccion.MVC* y *Introduccion.NET.Ejercicio.Introduccion.API*, por esto se ha decidido centralizar esta lógica en un proyecto llamado *Introduccion.NET.Ejercicio.Introduccion.Negocio*.
 
 
