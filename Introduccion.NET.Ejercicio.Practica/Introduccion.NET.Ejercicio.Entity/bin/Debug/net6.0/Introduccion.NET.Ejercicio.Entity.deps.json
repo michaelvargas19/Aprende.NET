@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Introduccion.NET.Ejercicio.Entity/1.0.0": {
+        "runtime": {
+          "Introduccion.NET.Ejercicio.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Introduccion.NET.Ejercicio.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

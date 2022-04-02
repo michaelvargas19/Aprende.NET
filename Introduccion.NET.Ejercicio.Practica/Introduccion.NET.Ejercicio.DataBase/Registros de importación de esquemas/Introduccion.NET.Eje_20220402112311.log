@@ -1,0 +1,84 @@
+2/04/2022 6:23:11 a. m.	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Introduccion.NET.Ejercicio.DataBase' del equipo '22LAP5CD1195QWJ' por el usuario 'Proyecto Movilidad'.
+2/04/2022 6:23:11 a. m.	Se inició la importación del esquema de la base de datos.
+2/04/2022 6:23:22 a. m.	Recopilando credenciales de la base de datos
+2/04/2022 6:23:22 a. m.	Recopilando opciones de base de datos
+2/04/2022 6:23:22 a. m.	Recopilando la opción de configuración de ámbito de la base de datos genérica
+2/04/2022 6:23:22 a. m.	Recopilando usuarios
+2/04/2022 6:23:22 a. m.	Recopilando roles
+2/04/2022 6:23:22 a. m.	Recopilando roles de aplicación
+2/04/2022 6:23:22 a. m.	Recopilando pertenencias a roles
+2/04/2022 6:23:22 a. m.	Recopilando grupos de archivos
+2/04/2022 6:23:22 a. m.	Recopilando catálogos de texto completo
+2/04/2022 6:23:22 a. m.	Recopilando ensamblados
+2/04/2022 6:23:22 a. m.	Recopilando certificados
+2/04/2022 6:23:22 a. m.	Recopilando claves asimétricas
+2/04/2022 6:23:22 a. m.	Recopilando claves simétricas
+2/04/2022 6:23:22 a. m.	Recopilando claves simétricas cifradas
+2/04/2022 6:23:22 a. m.	Recopilando esquemas
+2/04/2022 6:23:22 a. m.	Recopilando colecciones de esquemas XML
+2/04/2022 6:23:22 a. m.	Recopilando tipos de datos definidos por el usuario
+2/04/2022 6:23:22 a. m.	Recopilando tipos definidos por el usuario
+2/04/2022 6:23:22 a. m.	Recopilando tipos de tabla
+2/04/2022 6:23:22 a. m.	Recopilando claves únicas para tipos de tabla
+2/04/2022 6:23:22 a. m.	Recopilando claves principales para tipos de tabla
+2/04/2022 6:23:22 a. m.	Recopilando índices para tipos de tablas
+2/04/2022 6:23:33 a. m.	Recopilando restricciones CHECK para tipos de tabla
+2/04/2022 6:23:33 a. m.	Recopilando restricciones DEFAULT para tipos de tabla
+2/04/2022 6:23:33 a. m.	Recopilando funciones de partición
+2/04/2022 6:23:33 a. m.	Recopilando esquemas de partición
+2/04/2022 6:23:33 a. m.	Recopilando funciones
+2/04/2022 6:23:33 a. m.	Recopilando funciones cifradas
+2/04/2022 6:23:33 a. m.	Recopilando agregados
+2/04/2022 6:23:33 a. m.	Recopilando procedimientos
+2/04/2022 6:23:58 a. m.	Recopilando procedimientos cifrados
+2/04/2022 6:23:58 a. m.	Recopilando tablas
+2/04/2022 6:23:58 a. m.	Recopilando claves principales
+2/04/2022 6:23:58 a. m.	Recopilando restricciones UNIQUE
+2/04/2022 6:23:58 a. m.	Recopilando claves externas
+2/04/2022 6:23:58 a. m.	Recopilando restricciones DEFAULT
+2/04/2022 6:23:58 a. m.	Recopilando restricciones CHECK
+2/04/2022 6:23:58 a. m.	Recopilando vistas
+2/04/2022 6:23:58 a. m.	Recopilando vistas cifradas
+2/04/2022 6:23:58 a. m.	Recopilando índices
+2/04/2022 6:23:58 a. m.	Recopilando estadísticas
+2/04/2022 6:23:58 a. m.	Recopilando listas de palabras irrelevantes de índices de texto completo
+2/04/2022 6:23:58 a. m.	Recopilando listas de propiedades de búsqueda
+2/04/2022 6:23:58 a. m.	Recopilando propiedades de búsqueda
+2/04/2022 6:23:58 a. m.	Recopilando índices de texto completo
+2/04/2022 6:23:58 a. m.	Recopilando índices de almacenamiento de columnas
+2/04/2022 6:23:58 a. m.	Recopilando índices espaciales
+2/04/2022 6:23:58 a. m.	Recopilando índices XML
+2/04/2022 6:23:58 a. m.	Recopilando índices XML selectivos
+2/04/2022 6:23:58 a. m.	Recopilando desencadenadores cifrados
+2/04/2022 6:23:58 a. m.	Recopilando desencadenadores
+2/04/2022 6:24:41 a. m.	Recopilando DDL triggers cifrados y de CLR
+2/04/2022 6:24:41 a. m.	Recopilando DDL triggers
+2/04/2022 6:24:41 a. m.	Creación de la restricción perimetral en curso
+2/04/2022 6:24:41 a. m.	Recopilando sinónimos
+2/04/2022 6:24:41 a. m.	Recopilando valores predeterminados
+2/04/2022 6:24:41 a. m.	Recopilando enlaces UDDT de restricción de datos
+2/04/2022 6:24:41 a. m.	Recopilando reglas
+2/04/2022 6:24:41 a. m.	Recopilando enlaces UDDT de restricción de datos
+2/04/2022 6:24:41 a. m.	Recopilando tipos de mensaje
+2/04/2022 6:24:41 a. m.	Recopilando colas
+2/04/2022 6:24:41 a. m.	Recopilando contratos
+2/04/2022 6:24:41 a. m.	Recopilando servicios
+2/04/2022 6:24:41 a. m.	Recopilando notificaciones de eventos
+2/04/2022 6:24:41 a. m.	Recopilando enlaces de servicio remoto
+2/04/2022 6:24:41 a. m.	Recopilando prioridades de Broker
+2/04/2022 6:24:41 a. m.	Recopilando firmas
+2/04/2022 6:24:41 a. m.	Recopilando opciones de compresión de datos
+2/04/2022 6:24:41 a. m.	Recopilando tipos de secuencia
+2/04/2022 6:24:41 a. m.	Recopilando directivas de seguridad
+2/04/2022 6:24:41 a. m.	Recopilar claves de cifrado de columna
+2/04/2022 6:24:41 a. m.	Recopilando claves maestras de columna
+2/04/2022 6:24:41 a. m.	Recopilando orígenes de datos externos
+2/04/2022 6:24:41 a. m.	Recopilando formatos de archivo externos
+2/04/2022 6:24:41 a. m.	Recopilando tablas externas
+2/04/2022 6:24:41 a. m.	Recopilando propiedades extendidas
+2/04/2022 6:24:41 a. m.	Recopilando ensamblados
+2/04/2022 6:24:42 a. m.	Buscando elementos duplicados en el proyecto
+2/04/2022 6:24:42 a. m.	Ha finalizado el procesamiento de los elementos duplicados
+2/04/2022 6:24:43 a. m.	Finalizó la importación de la base de datos.
+2/04/2022 6:24:43 a. m.	Se guardó un resumen de la importación en la siguiente ubicación: C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\Registros de importación de esquemas\Introduccion.NET.Eje_20220402112311.log
+2/04/2022 6:24:43 a. m.	Haga clic en Finalizar para continuar...

@@ -1,0 +1,422 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.API\\Introduccion.NET.Ejercicio.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.API\\Introduccion.NET.Ejercicio.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.API\\Introduccion.NET.Ejercicio.API.csproj",
+        "projectName": "Introduccion.NET.Ejercicio.API",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.API\\Introduccion.NET.Ejercicio.API.csproj",
+        "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Business\\Introduccion.NET.Ejercicio.Business.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Business\\Introduccion.NET.Ejercicio.Business.csproj"
+              },
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj"
+              },
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\Introduccion.NET.Ejercicio.Service.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\Introduccion.NET.Ejercicio.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Business\\Introduccion.NET.Ejercicio.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Business\\Introduccion.NET.Ejercicio.Business.csproj",
+        "projectName": "Introduccion.NET.Ejercicio.Business",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Business\\Introduccion.NET.Ejercicio.Business.csproj",
+        "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj"
+              },
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj"
+              },
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\Introduccion.NET.Ejercicio.Service.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\Introduccion.NET.Ejercicio.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj",
+        "projectName": "Introduccion.NET.Ejercicio.Common",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj",
+        "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.16.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj",
+        "projectName": "Introduccion.NET.Ejercicio.Entity",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj",
+        "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj",
+        "projectName": "Introduccion.NET.Ejercicio.Repository",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj",
+        "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj"
+              },
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\Introduccion.NET.Ejercicio.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\Introduccion.NET.Ejercicio.Service.csproj",
+        "projectName": "Introduccion.NET.Ejercicio.Service",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\Introduccion.NET.Ejercicio.Service.csproj",
+        "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj"
+              },
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj"
+              },
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

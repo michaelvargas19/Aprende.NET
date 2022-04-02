@@ -1,0 +1,10 @@
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\bin\Debug\Introduccion.NET.Ejercicio.DataBase.dacpac
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\bin\Debug\Introduccion.NET.Ejercicio.DataBase.dll
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\bin\Debug\Introduccion.NET.Ejercicio.DataBase.pdb
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.sqlproj.AssemblyReference.cache
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Model.xml
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\refactor.xml
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\postdeploy.sql
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\predeploy.sql
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.dll
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.pdb

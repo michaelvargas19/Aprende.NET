@@ -1,0 +1,12 @@
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Common.deps.json
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Common.dll
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Common.pdb
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Common.csproj.AssemblyReference.cache
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Common.AssemblyInfoInputs.cache
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Common.AssemblyInfo.cs
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Common.csproj.CoreCompileInputs.cache
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Common.dll
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\refint\Introduccion.NET.Ejercicio.Common.dll
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Common.pdb
+C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Common\obj\Debug\net6.0\ref\Introduccion.NET.Ejercicio.Common.dll
