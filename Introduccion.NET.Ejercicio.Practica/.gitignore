@@ -361,3 +361,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /.sonarlint
+
+# Ionide (cross platform F# VS Code tools) working folder
+**/bin
+**/obj
