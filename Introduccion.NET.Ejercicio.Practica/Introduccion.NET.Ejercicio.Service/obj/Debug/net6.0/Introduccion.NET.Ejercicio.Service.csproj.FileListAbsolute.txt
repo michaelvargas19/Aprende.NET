@@ -17,3 +17,22 @@ C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introd
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\refint\Introduccion.NET.Ejercicio.Service.dll
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.pdb
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\ref\Introduccion.NET.Ejercicio.Service.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Service.deps.json
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Service.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Service.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Common.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Entity.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Common.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Entity.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.csproj.AssemblyReference.cache
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.AssemblyInfoInputs.cache
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.AssemblyInfo.cs
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.csproj.CoreCompileInputs.cache
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.csproj.CopyComplete
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\refint\Introduccion.NET.Ejercicio.Service.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Service.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Service\obj\Debug\net6.0\ref\Introduccion.NET.Ejercicio.Service.dll

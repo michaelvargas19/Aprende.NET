@@ -2,7 +2,7 @@
 using Introduccion.NET.Ejercicio.Business.Implementation;
 using Introduccion.NET.Ejercicio.Common.Entities;
 using Introduccion.NET.Ejercicio.Entity.DbSet;
-using Introduccion.NET.Ejercicio.Service.Implement;
+using Introduccion.NET.Ejercicio.Service.Contracts;
 using Microsoft.EntityFrameworkCore.Query;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
@@ -10,7 +10,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace Introduccion.NET.Ejercicio.Test.BusinessTest.ImplementionTest
@@ -18,7 +17,7 @@ namespace Introduccion.NET.Ejercicio.Test.BusinessTest.ImplementionTest
     [TestClass]
     public class ICalculatorProcessTest
     {
-        private readonly Mock<CalculatorService> _calculatorService = new Mock<CalculatorService>();
+        private readonly Mock<ICalculatorService> _calculatorService = new Mock<ICalculatorService>();
         private ICalculatorProcess _current;
         
 
@@ -27,12 +26,12 @@ namespace Introduccion.NET.Ejercicio.Test.BusinessTest.ImplementionTest
         {
             _current = new CalculatorProcess(_calculatorService.Object);
         }
-
+        
 
         [TestMethod]
         [DataRow(1, 200, DisplayName = "calculadora objects")]
         [DataRow(2, 200, DisplayName = "with out calculadora objects")]
-        public async Task GetEnabledTest(int index, int expected)
+        public async Task GetCalculatorsEnabled(int index, int expected)
         {
             //arrange
             if (index == 1)

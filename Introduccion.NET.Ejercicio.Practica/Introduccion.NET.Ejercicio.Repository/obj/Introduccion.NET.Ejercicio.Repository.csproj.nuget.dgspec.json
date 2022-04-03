@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj": {}
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj",
         "projectName": "Introduccion.NET.Ejercicio.Common",
-        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj",
         "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\obj\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj",
         "projectName": "Introduccion.NET.Ejercicio.Entity",
-        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj",
         "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\obj\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj": {
+    "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj",
         "projectName": "Introduccion.NET.Ejercicio.Repository",
-        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj",
+        "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\Introduccion.NET.Ejercicio.Repository.csproj",
         "packagesPath": "C:\\Users\\Proyecto Movilidad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\obj\\",
+        "outputPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Proyecto Movilidad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -170,11 +170,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
-                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj"
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Common\\Introduccion.NET.Ejercicio.Common.csproj"
               },
-              "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
-                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj"
+              "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj": {
+                "projectPath": "C:\\Users\\Proyecto Movilidad\\Documents\\Nueva carpeta\\Aprende.NET\\Introduccion.NET.Ejercicio.Practica\\Introduccion.NET.Ejercicio.Entity\\Introduccion.NET.Ejercicio.Entity.csproj"
               }
             }
           }

@@ -8,3 +8,9 @@ C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introd
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\predeploy.sql
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.dll
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\bin\Debug\Introduccion.NET.Ejercicio.DataBase.dacpac
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\bin\Debug\Introduccion.NET.Ejercicio.DataBase.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\bin\Debug\Introduccion.NET.Ejercicio.DataBase.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.sqlproj.AssemblyReference.cache
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.DataBase\obj\Debug\Introduccion.NET.Ejercicio.DataBase.pdb

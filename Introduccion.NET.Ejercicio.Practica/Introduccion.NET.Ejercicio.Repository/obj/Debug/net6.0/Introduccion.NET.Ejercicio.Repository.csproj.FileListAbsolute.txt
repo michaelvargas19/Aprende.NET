@@ -15,3 +15,20 @@ C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introd
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\refint\Introduccion.NET.Ejercicio.Repository.dll
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.pdb
 C:\Users\Proyecto Movilidad\Documents\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\ref\Introduccion.NET.Ejercicio.Repository.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.deps.json
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Common.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Entity.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Common.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\bin\Debug\net6.0\Introduccion.NET.Ejercicio.Entity.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.csproj.AssemblyReference.cache
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.AssemblyInfoInputs.cache
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.AssemblyInfo.cs
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.csproj.CopyComplete
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\refint\Introduccion.NET.Ejercicio.Repository.dll
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\Introduccion.NET.Ejercicio.Repository.pdb
+C:\Users\Proyecto Movilidad\Documents\Nueva carpeta\Aprende.NET\Introduccion.NET.Ejercicio.Practica\Introduccion.NET.Ejercicio.Repository\obj\Debug\net6.0\ref\Introduccion.NET.Ejercicio.Repository.dll
